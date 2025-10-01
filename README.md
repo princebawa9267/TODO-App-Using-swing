@@ -1,12 +1,5 @@
 # 📝 Java Swing TODO App
 
-![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
-![Platform](https://img.shields.io/badge/Platform-Desktop-blue?style=for-the-badge&logo=windows)
-![Framework](https://img.shields.io/badge/Framework-Swing-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-<br>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ebe7abd-f777-4a82-9a8e-15fdb6ff4e16" width="400" alt="Main App Window"/>
 </p>
@@ -105,3 +98,4 @@ This project was a great exercise in practical Java GUI development. Key takeawa
 -   ✔ **Dynamic UI Updates**: Adding and removing UI components at runtime and correctly refreshing the display.
 -   ✔ **Object-Oriented Design**: Creating custom, reusable components (`Task.java`) for a modular application.
 -   ✔ **UI/UX Design**: Focusing on aesthetics and usability through custom fonts, colors, and dialogs.
+
